@@ -1,4 +1,4 @@
-# frameworkpython needed to run matplotlib
+# framework python needed to run matplotlib
 from idlelib.PyShell import main
 if __name__ == '__main__':
     main()

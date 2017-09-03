@@ -18,7 +18,7 @@ import argparse
 from PIL import Image as im
 # from matplotlib import pyplot as plt
 print('importing modules complete')
-os.chdir('/Users/justinchan/dropbox/thesis/python') #change to thesis directory
+os.chdir('/Users/panda/Github/thesis/python') #change to thesis directory
 
 def importfiles():
     #import test videos
